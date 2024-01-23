@@ -1,6 +1,4 @@
-# 2. Seminarski rad - Mrežni i mobilni operacijski sustavi
-## Autor: Dominik Ivošić
-## Mentor: Matija Burić
+# OSN (Old School Navigation)
 
 # Preduvjeti
 
