@@ -60,6 +60,7 @@ OSN (Old School Navigation) je jednostavna aplikacija koja donosi klasičnu navi
     <figure>
         <img src="https://github.com/SlavicPixel/osn/blob/master/demo/demo.gif" alt="Demo aplikacije" style="width: 50%;"/>
         <figcaption>Demo aplikacije</figcaption>
+    </figure>
 </div>
 
 <div align="center">
