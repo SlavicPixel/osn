@@ -1,0 +1,2 @@
+# osn
+Simple compass aplication 
