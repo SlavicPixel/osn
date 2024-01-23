@@ -60,17 +60,17 @@ OSN (Old School Navigation) je jednostavna aplikacija koja donosi klasičnu navi
 
 <div align="center">
     <figure>
-        <img src="osn/demo/demo.gif" alt="Demo aplikacije" style="width: 50%;"/>
+        <img src="https://github.com/SlavicPixel/osn/blob/master/demo/demo.gif" alt="Demo aplikacije" style="width: 50%;"/>
         <figcaption>Demo aplikacije</figcaption>
 </div>
 
 <div align="center">
     <figure style="display: inline-block; margin-right: 20px;">
-        <img src="osn/demo/compass.jpg" alt="Compass Screen" style="width: 300px;"/>
+        <img src="https://github.com/SlavicPixel/osn/blob/master/demo/compass.jpg" alt="Compass Screen" style="width: 300px;"/>
         <figcaption>CompassScreen.js</figcaption>
     </figure>
     <figure style="display: inline-block;">
-        <img src="osn/demo/about.jpg" alt="About Screen" style="width: 300px;"/>
+        <img src="https://github.com/SlavicPixel/osn/blob/master/demo/about.jpg" alt="About Screen" style="width: 300px;"/>
         <figcaption>AboutScreen.js</figcaption>
     </figure>
 </div>
@@ -340,7 +340,7 @@ Koristeći ugrađeni Pefromance Monitor unutar Expo aplikacije, dobiveni su slij
 
 <div align="center">
     <figure>
-        <img src="osn/demo/performance_monitor.jpg" alt="Pefromance Monitor" style="width: 50%;"/>
+        <img src="https://github.com/SlavicPixel/osn/blob/master/demo/performance_monitor.jpg" alt="Pefromance Monitor" style="width: 50%;"/>
         <figcaption>Expo Pefromance Monitor</figcaption>
     </figure>
 </div>
