@@ -1,5 +1,11 @@
 # OSN (Old School Navigation)
 
+OSN (Old School Navigation) je jednostavna aplikacija koja donosi klasičnu navigaciju kompasom na mobilni uređaj. Aplikacija koristi senzor magnetometra unutar Android uređaja za prikaz tradicionalnog sučelja kompasa.
+
+<div align="center">
+    <img src="https://github.com/SlavicPixel/osn/blob/main/demo/demo.gif" alt="Demo aplikacije" style="width: 50%;"/>
+</div>
+
 # Preduvjeti
 
 Prije početka razvoja [Expo](expo.dev) aplikacije, potrebno je postaviti odgovaraćuje okruženje na računalnu i mobilnom uređaju. Potrebno je slijediti ove korake kako bi se osigurao ispravan rad u okruženju i mobilnom uređaju:
@@ -51,14 +57,6 @@ Također postoje opcije za izravno pokretanje aplikacije na računalu ukoliko je
 - `npm start android`
 
 - `npm start ios` 
-
-# OSN (Old School Navigation) - React Native aplikacija
-
-OSN (Old School Navigation) je jednostavna aplikacija koja donosi klasičnu navigaciju kompasom na mobilni uređaj. Aplikacija koristi senzor magnetometra unutar Android uređaja za prikaz tradicionalnog sučelja kompasa.
-
-<div align="center">
-    <img src="https://github.com/SlavicPixel/osn/blob/main/demo/demo.gif" alt="Demo aplikacije" style="width: 50%;"/>
-</div>
 
 ## React Native kôd aplikacije
 
@@ -324,10 +322,7 @@ Ovaj kod omogućuje korisnicima da saznaju više o aplikaciji, te pruža brz pri
 Koristeći ugrađeni Pefromance Monitor unutar Expo aplikacije, dobiveni su slijedeći rezultati:
 
 <div align="center">
-    <figure>
-        <img src="https://github.com/SlavicPixel/osn/blob/master/demo/performance_monitor.jpg" alt="Pefromance Monitor" style="width: 50%;"/>
-        <figcaption>Expo Pefromance Monitor</figcaption>
-    </figure>
+    <img src="https://github.com/SlavicPixel/osn/blob/main/demo/performance_monitor.jpg" alt="Pefromance Monitor" style="width: 50%;"/>
 </div>
 
 - UI Performanse: 119.9 fps (stabilno)
