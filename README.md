@@ -57,21 +57,7 @@ Također postoje opcije za izravno pokretanje aplikacije na računalu ukoliko je
 OSN (Old School Navigation) je jednostavna aplikacija koja donosi klasičnu navigaciju kompasom na mobilni uređaj. Aplikacija koristi senzor magnetometra unutar Android uređaja za prikaz tradicionalnog sučelja kompasa.
 
 <div align="center">
-    <figure>
-        <img src="https://github.com/SlavicPixel/osn/blob/master/demo/demo.gif" alt="Demo aplikacije" style="width: 50%;"/>
-        <figcaption>Demo aplikacije</figcaption>
-    </figure>
-</div>
-
-<div align="center">
-    <figure style="display: inline-block; margin-right: 20px;">
-        <img src="https://github.com/SlavicPixel/osn/blob/master/demo/compass.jpg" alt="Compass Screen" style="width: 300px;"/>
-        <figcaption>CompassScreen.js</figcaption>
-    </figure>
-    <figure style="display: inline-block;">
-        <img src="https://github.com/SlavicPixel/osn/blob/master/demo/about.jpg" alt="About Screen" style="width: 300px;"/>
-        <figcaption>AboutScreen.js</figcaption>
-    </figure>
+    <img src="https://github.com/SlavicPixel/osn/blob/main/demo/demo.gif" alt="Demo aplikacije" style="width: 50%;"/>
 </div>
 
 ## React Native kôd aplikacije
